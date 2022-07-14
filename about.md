@@ -1,5 +1,5 @@
 ---
-title: Example About
+name: Example About
 tags: about example test
 ---
 
